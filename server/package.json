@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "full stack app to collect user feedback on a company product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rameshwarsingh11/email-survey.git"
+  },
+  "keywords": [
+    "full-stack",
+    "mern",
+    "app"
+  ],
+  "author": "rameshwarsingh11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rameshwarsingh11/email-survey/issues"
+  },
+  "homepage": "https://github.com/rameshwarsingh11/email-survey#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
